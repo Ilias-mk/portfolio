@@ -64,7 +64,7 @@ export const translations = {
       linkedin: 'LinkedIn',
       github: 'GitHub',
     },
-    footer: { built: 'Built with React and hosted on AWS.' },
+    footer: { built: 'Built with React and deployed with GitHub Pages.' },
   },
 
   sv: {
@@ -132,6 +132,6 @@ export const translations = {
       linkedin: 'LinkedIn',
       github: 'GitHub',
     },
-    footer: { built: 'Byggd med React och hostad på AWS.' },
+    footer: { built: 'Byggd med React och publicerad med GitHub Pages.' },
   },
 }
