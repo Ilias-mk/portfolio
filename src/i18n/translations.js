@@ -55,7 +55,7 @@ export const translations = {
         { name: 'Learning now', items: ['AWS'] },
       ],
       spokenHeading: 'Languages I speak',
-      spoken: 'Spanish, English and Swedish',
+      spoken: 'Spanish, English, Arabic and Swedish',
     },
     contact: {
       heading: "Let's talk",
@@ -123,7 +123,7 @@ export const translations = {
         { name: 'Lär mig nu', items: ['AWS'] },
       ],
       spokenHeading: 'Språk jag talar',
-      spoken: 'Spanska, engelska och svenska',
+      spoken: 'Spanska, engelska, arabiska och svenska',
     },
     contact: {
       heading: 'Hör av dig',
